@@ -1,6 +1,6 @@
 ## Hello!👋 My name is Trevor Gerald!
 
-<p>I am a software developer and graphic designer studying Computer Science and Engineering at The Ohio State University. I am expected to graduate in May of 2026 and am currently pursuing a software development internship. The public repos on below are past projects that I have worked on/am currently working on.</p>
+<p>I am a software developer and graphic designer studying Computer Science and Engineering at The Ohio State University. I am expected to graduate in May of 2026 and am currently pursuing a software development internship. The public repos below are projects that I have worked on/am currently working on.</p>
 
 ### Skills
 <div style="display:flex;flex-direction:row;padding:10px 15px;">
