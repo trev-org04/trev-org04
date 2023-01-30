@@ -1,13 +1,11 @@
 ### Hello!👋 My name is Trevor Gerald!
 
 <div style="display:flex;flex-direction:row;padding:10px 15px;">
-  <a href="https://www.linkedin.com/in/trevorgerald/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.google.com"><img src="https://img.shields.io/badge/portfolio-9cf?style=for-the-badge&logo=aseprite"/></a>
+   <a href="https://www.linkedin.com/in/trevorgerald/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
 </div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=trev-org04&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" style="margin-top:1em;s" src="https://github-readme-stats.vercel.app/api?username=trev-org04&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
 **trev-org04/trev-org04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
