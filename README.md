@@ -1,10 +1,10 @@
 ### Hello!👋 My name is Trevor Gerald!
 
 <div style="display:flex;flex-direction:row;">
-   https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin
-  https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin
-  https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin
-  https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </div>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trev-org04&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
