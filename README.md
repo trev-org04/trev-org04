@@ -1,7 +1,7 @@
 ### Hello!👋 My name is Trevor Gerald!
 
-<div style="display:flex;flex-direction:row;">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<div style="display:flex;flex-direction:row;padding:10px 15px;">
+  <a href="https://www.linkedin.com/in/trevorgerald/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
