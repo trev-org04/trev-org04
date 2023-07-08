@@ -1,6 +1,6 @@
 ## Hello!👋 My name is Trevor Gerald!
 
-<p>I am a software developer studying Computer Science and Engineering with an Artificial Intelligence specialization at The Ohio State University. I am expected to graduate in May of 2026 and am currently interning at Bob Evans Farms, Inc. as an IT Developer intern. The public repos below are projects that I have worked on or am currently working on.</p>
+<p>I am a software developer studying Computer Science and Engineering with an Artificial Intelligence specialization at The Ohio State University. I am expected to graduate in May of 2026 and am currently searching for a software engineering internship for the summer of 2024. The public repos below are projects that I have worked on or am currently working on.</p>
 
 ### Skills
 <div style="display:flex;flex-direction:row;padding:10px 15px;">
