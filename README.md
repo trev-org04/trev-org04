@@ -4,9 +4,9 @@
 
 ### ⚙️ Current Projects
 <ul>
-  <li><a href="https://github.com/trev-org04/sift">Sift</a></li>
+<!--   <li><a href="https://github.com/trev-org04/sift">Sift</a></li> -->
   <li><a href="https://research.osu.dev/">Undergraduate Research Mentorship Program @ OSU</a></li>
-  <li><a href="honeycomb-studios.web.app">Honeycomb Studios</a></li>
+  <li><a href="https://honeycomb-studios.web.app">Honeycomb Studios</a></li>
   <li><a href="https://github.com/devosu/event-feed">Event Feed @ OSU</a></li>
   <li>Stealth Startup 👀</li>
 </ul>
