@@ -4,10 +4,11 @@
 
 ### ⚙️ Current Projects
 <ul>
-  <li><a href="https://www.gokavi.com/">Kavi</a></li>
   <li><a href="https://github.com/trev-org04/sift">Sift</a></li>
+  <li><a href="https://research.osu.dev/">Undergraduate Research Mentorship Program @ OSU</a></li>
   <li><a href="https://github.com/devosu/research-mentorship-frontend">Undergraduate Research Mentorship Program @ OSU</a></li>
-  <li><a href="https://duodate.co/">Duodate</a></li>
+  <li><a href="https://github.com/devosu/event-feed">Event Feed @ OSU</a></li>
+  <li>Stealth Startup 👀</li>
 </ul>
 
 ### 🤹‍♂️ Skills
